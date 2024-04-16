@@ -12,7 +12,7 @@ Visual Studio
 2. Open the solution file (`ConsoleApp6`) in Visual Studio.
 
 Command Line
-1. Navigate to the directory containing the solution file (`RecipeManagement.sln`).
+1. Navigate to the directory containing the solution file (`ConsoleApp6`).
 2. Use the `dotnet build` command to build the solution:
 
 Running the Application
